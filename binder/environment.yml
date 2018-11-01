@@ -1,0 +1,14 @@
+name: simulate
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - h5py
+  - os
+  - sys
+  - msprime
+  - subprocess
+  - __future__
+  - pip:
+    - toytree
+    - toyplot
